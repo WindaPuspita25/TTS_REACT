@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WindaPuspita25/ttswinda/static/css/main.2fdd1b65.css",
+    "main.js": "/WindaPuspita25/ttswinda/static/js/main.8e187f7c.js",
+    "static/js/787.510ee1e4.chunk.js": "/WindaPuspita25/ttswinda/static/js/787.510ee1e4.chunk.js",
+    "index.html": "/WindaPuspita25/ttswinda/index.html",
+    "main.2fdd1b65.css.map": "/WindaPuspita25/ttswinda/static/css/main.2fdd1b65.css.map",
+    "main.8e187f7c.js.map": "/WindaPuspita25/ttswinda/static/js/main.8e187f7c.js.map",
+    "787.510ee1e4.chunk.js.map": "/WindaPuspita25/ttswinda/static/js/787.510ee1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fdd1b65.css",
+    "static/js/main.8e187f7c.js"
+  ]
+}
